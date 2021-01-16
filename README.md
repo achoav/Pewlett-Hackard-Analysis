@@ -1,4 +1,3 @@
-
  # Pewlett-Hackard-Analysis
 
 ## Project Overview
@@ -48,6 +47,5 @@ Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/E
 <p align="center">
 <img src="Data/Mentorship_Training_Ratios.PNG">
 </p>
-
 
 - Reviewing the criteria to qualify for the mentorship program would be needed (in order to increase the amount of mentors) by the company to prepare for the coming "silver tsunami".
