@@ -62,5 +62,6 @@ Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/E
 <p align="center">
 <img src="Data/Mentorship_Average_Years.PNG">
 </p>
-Mentorship Eligibility Table/
+<p align="center">
+Table - Mentorship Eligibility Table -
 with years of service for Pewlett-Hackard
