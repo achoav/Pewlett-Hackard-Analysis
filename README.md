@@ -19,7 +19,7 @@ Documentation: [PostgreSQL documentation](https://www.postgresql.org/docs/manual
 Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png) created previously, the following Retirement Titles table was created and it holds all the titles of employees who were born between January 1st, 1952 and December 31st, 1955.
 <br/><br/>
 <p align="center">
-  <img src="Data/Retiring_Titles.png">
+  <img src="Data/Retiring_Titles.PNG">\
 </p>
 <br/>
  	
@@ -32,7 +32,7 @@ It seems that management renewal has been to focus of the company to the detrime
 Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png) created previously, the following Mentorship Eligibility table was created and it holds all the current employees who were born between January 1st, 1965 and December 31st, 1965.
 <br/><br/>
 <p align="center">
-  <img src="Data/Mentorship_Eligibility.PNG">
+  <img src="Data/Mentorship_Eligibility.PNG">\
   Extract of the mentorship eligibility table 
 </p><br/>
 
