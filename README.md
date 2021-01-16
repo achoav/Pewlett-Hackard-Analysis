@@ -18,13 +18,13 @@ Documentation: [PostgreSQL documentation](https://www.postgresql.org/docs/manual
 Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png) created previously, we were able through SQL relationships generate a list of retirees/
 <br/><br/>
 <p align="center">
- <img src="Data/Retiring_Titles_PgAdmin.PNG">
+ <img src="EmployeeDB.png">
  The first records of the Retirees table
 </p>
 <br/>
 <br/><br/>
 <p align="center">
-  <img src="Data/Retirement_Titles.PNG">
+  <img src="Data/EmployeeDB.PNG">
 </p>
 <br/>
 
