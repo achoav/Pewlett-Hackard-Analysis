@@ -24,7 +24,7 @@ Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/E
 <br/>
 <br/><br/>
 <p align="center">
-  <img src="Data/Retirement_Titles_.png">
+  <img src="Data/Retirement_Titles.PNG">
 </p>
 <br/>
 
