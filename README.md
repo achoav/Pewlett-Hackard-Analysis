@@ -18,12 +18,12 @@ Documentation: [PostgreSQL documentation](https://www.postgresql.org/docs/manual
 Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/EmployeeDB.png) created previously, we were able through SQL relationships generate a list of retirees/
 <br/><br/>
 <p align="center">
-  <img src="EmployeeDB.png">
+  <img src="Data/EmployeeDB.png">
 </p>
 <br/>
 <br/><br/>
 <p align="center">
-  <img src="Retirement_Titles_.png">
+  <img src="Data/Retirement_Titles_.png">
 </p>
 <br/>
 The following Retirement Titles table was created and it holds all the titles of employees who were born between January 1st, 1952 and December 31st, 1955.
