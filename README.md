@@ -51,7 +51,7 @@ Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/E
 - 90,398 roles will need to be filled as the "silver tsunami" begins to make an impact.
 - There are 1,549 eligible mentors in the company.\
  Assume that Pewlett-Hackard will replenish all the retirees.  Assuming that they will all be willing to participate in the mentorship program, we created a table of Mentorship ratio,  and we can clearly see that there is a huge challenge for Senior Staff and Senior Engineer, so we can conclude that there is not enough mentors to prepare the next generation of Pewlett Hackard employees.
- - The following tables give us the number of retirement-ready employees and the number of eligible mentors per department. It shows that all departments are lacking mentors.<br/><br/>
+ - The following tables give us the number of retirement-ready employees and the number of eligible mentors per department. It illustrates that most of the departments have a high ratio of mentees to mentors.<br/><br/>
 <p align="center">
 <img src="Data/Mentorship_Training_Ratios.PNG">
 </p>
