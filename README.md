@@ -21,14 +21,19 @@ Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/E
   <img src="EmployeeDB.png">
 </p>
 <br/>
-
+<br/><br/>
+<p align="center">
+  <img src="Retirement_Titles_.png">
+</p>
+<br/>
 The following Retirement Titles table was created and it holds all the titles of employees who were born between January 1st, 1952 and December 31st, 1955.
 <br/><br/>
 <p align="center">
-  <img src="Data/Retiring_Titles.PNG">
+  <img src="Data/Retiring_Titles_PgAdmin.PNG">
 </p>
 <br/>
- 	
+The first records of the Retirees table
+
 - 90,398 employees or 37.65% of the company's total current employees (240,124)  will be retiring soon.
 - Senior Engineer, Senior Staff and Engineer will be the most impacted positions with respectively 29,414, 28,254 and 14,222 futures retirees, which correspond to 12.3%, 11.8% and 5.92% of the company's workforce.
 - Fortunately, only 2 Managers will be retiring soon.\
