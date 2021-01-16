@@ -57,3 +57,8 @@ Using the [ERD](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/E
 </p>
 
 - Reviewing the criteria to qualify for the mentorship program would be needed (in order to increase the amount of mentors) by the company to prepare for the coming "silver tsunami".
+- Further, from the table as follows, we can see that retirees have an average 28 years of service for Pewlett Hackard, experiences that is very valuable, and the entity should persuade retirees to enroll on the mentorship program.
+
+<p align="center">
+<img src="Data/Mentorship_Average_Years.PNG">
+</p>
