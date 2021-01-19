@@ -8,7 +8,7 @@ For this analysis we will:
 2. Deliverable 2 - Identify the employees eligible to participate in a Mentorship Program.
 
 ## Resources
-- Data Source: [departments.csv](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/Data/departments.csv), [dept_manager.csv](https://github.com/achoav/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv), [dept_emp.csv](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/Data/dept_emp.csv), [employees.csv](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/Data/employees.csv), [salaries.csv](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/Data/salaries.csv), [titles.csv](https://github.com/vachoa/Pewlett-Hackard-Analysis/blob/master/Data/titles.csv)
+- Data Source: [departments.csv](https://github.com/achoav/Pewlett-Hackard-Analysis/blob/main/Data/departments.csv), [dept_manager.csv](https://github.com/achoav/Pewlett-Hackard-Analysis/blob/main/Data/dept_manager.csv), [dept_emp.csv]https://github.com/achoav/Pewlett-Hackard-Analysis/blob/main/Data/dept_emp.csv), [employees.csv](https://github.com/achoav/Pewlett-Hackard-Analysis/blob/main/Data/employees.csv), [salaries.csv](https://github.com/achoav/Pewlett-Hackard-Analysis/blob/main/Data/salaries.csv), [titles.csv](https://github.com/achoav/Pewlett-Hackard-Analysis/blob/main/Data/titles.csv)
 - Software: PostgreSQL 11.9, pgAdmin 4\
 Documentation: [PostgreSQL documentation](https://www.postgresql.org/docs/manuals/), [PostgreSQL tutorial](https://www.tutorialspoint.com/postgresql/), [pgAdmin documentation](https://www.pgadmin.org/docs/)
 
